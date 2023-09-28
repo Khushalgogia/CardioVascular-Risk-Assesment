@@ -1,8 +1,6 @@
 # Cardiovascular Risk Assessment
 
-![Project Image](link_to_project_image.jpg)
 ![image](https://github.com/Khushalgogia/CardioVascular-Risk-Assesment/assets/43295537/6145acb3-a19f-4941-be80-b20667bf84cf)
-https://drive.google.com/file/d/1JAsbtAEE7aZKvFXuyQjBOY6JjqxpgzXI/view?usp=sharing
 
 
 ## Overview
